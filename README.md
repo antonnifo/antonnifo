@@ -19,7 +19,6 @@
 - [Handling nginx startup error nginx.service:](https://medium.com/@kenyattaanthony88/handling-nginx-startup-error-nginx-service-6310042efa98?source=rss-b54eead2c4ab------2)
 - [Implementing K Nearest Neighbors with Python](https://medium.com/datadriveninvestor/implementing-k-nearest-neighbors-with-python-1c0b7cdf85f2?source=rss-b54eead2c4ab------2)
 - [Getting Started with K-Nearest Neighbors Algorithm](https://medium.com/datadriveninvestor/getting-started-with-k-nearest-neighbors-algorithm-77e4936a120?source=rss-b54eead2c4ab------2)
-- [The IcodeAI Interview](https://medium.com/@kenyattaanthony88/the-icodeai-interview-7ef7ddf1a269?source=rss-b54eead2c4ab------2)
 <!-- BLOG-POST-LIST:END -->  
 
 ---
