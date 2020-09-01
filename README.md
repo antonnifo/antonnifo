@@ -1,9 +1,9 @@
 ### Hi there, I'm Anthony  👋
 
-- 🔭 I’m currently working on e-commerce systems then later I see how I can integrate an ML backed recommendation engine.
-- 🌱 I’m currently learning REACTJS & CCNA.
+- 🔭 I’m currently working on Deep Learning Projects.
+- 🌱 I’m currently learning CCNA.
 - 👯 I’m looking to collaborate on ML & Django projects.
-- 🤔 I’m looking for help with REACT.
+- 🤔 I’m looking for help with CCNA exams lol.
 - 💬 Ask me about Django & ML.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I play FIFA. 
