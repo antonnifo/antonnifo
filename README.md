@@ -1,10 +1,10 @@
 ### Hi there, I'm Anthony  👋
 
-- 🔭 I’m currently working on Deep Learning Projects.
-- 🌱 I’m currently learning CCNA.
+- 🔭 I’m currently working on Django Projects.
+- 🌱 I’m currently learning about chart servers and REACTJS.
 - 👯 I’m looking to collaborate on ML & Django projects.
-- 🤔 I’m looking for help with CCNA.
-- 💬 Ask me about Django & ML.
+- 🤔 I’m looking for help with REACT.
+- 💬 Ask me about Django.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I write screenplays on my free time 
 ### 📫 Connect with me:  
