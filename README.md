@@ -1,11 +1,11 @@
 ### Hi there, I'm Anthony  👋
 
 - 🔭 I’m currently working on Django Projects.
-- 🌱 I’m currently learning about chart servers and REACTJS.
-- 👯 I’m looking to collaborate on ML & Django projects.
-- 🤔 I’m looking for help with REACT.
+- 🌱 I’m currently learning about DevOps at Udacity.
+- 👯 I’m looking to collaborate on Django projects and DevOps projects.
+- 🤔 I’m looking for help with DevOps projects.
 - 💬 Ask me about Django.
-- 🥅 2022 Goals: Build a product.
+- 🥅 2023 Goals: Build more open source projects.
 - ⚡ Fun fact: I write screenplays on my free time 
 ### 📫 Connect with me:  
 [<img align="left" alt="antonnifo254 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/antonnifo254)
