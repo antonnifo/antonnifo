@@ -1,7 +1,7 @@
 ### Hi there, I'm Anthony  👋
 
 - 🔭 I’m currently working on Django Projects.
-- 🌱 I’m currently learning about DevOps at Udacity.
+- 🌱 I’m currently learning everything DevOps.
 - 👯 I’m looking to collaborate on Django projects and DevOps projects.
 - 🤔 I’m looking for help with DevOps projects.
 - 💬 Ask me about Django.
