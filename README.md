@@ -1,12 +1,12 @@
 ### Hi there, I'm Anthony  👋
 
-- 🔭 I’m currently working on Django Projects.
-- 🌱 I’m currently learning everything DevOps.
-- 👯 I’m looking to collaborate on Django projects and DevOps projects.
-- 🤔 I’m looking for help with DevOps projects.
-- 💬 Ask me about Django.
-- 🥅 2023 Goals: Build more open source projects.
-- ⚡ Fun fact: I write screenplays on my free time 
+- 🔭 I’m currently working on Django projects.
+- 🌱 I’m currently learning everything BigData.
+- 👯 I’m looking to collaborate on everything.
+- 🤔 I’m looking for help with MLoPS projects.
+- 💬 Ask me anything Python and Data.
+- 🥅 2023 Goals: Deploy a SaaS.
+- ⚡ Fun fact: I write screenplays in my free time 
 ### 📫 Connect with me:  
 [<img align="left" alt="antonnifo254 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/antonnifo254)
 [<img align="left" alt="antonnifo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-mwangi/)
