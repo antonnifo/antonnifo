@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony  👋
 
-- 🔭 I’m currently working on Django projects.
+- 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning everything BigData.
 - 👯 I’m looking to collaborate on everything.
 - 🤔 I’m looking for help with MLoPS projects.
