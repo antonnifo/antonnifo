@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning everything BigData.
-- 👯 I’m looking to collaborate on everything.
+- 👯 I’m looking to collaborate on everything SaaS.
 - 🤔 I’m looking for help with MLoPS projects.
 - 💬 Ask me anything Python and Data.
-- 🥅 2023 Goals: Deploy a SaaS.
+- 🥅 2024 Goals: Deploy a SaaS/Month.
 - ⚡ Fun fact: I write screenplays in my free time 
 ### 📫 Connect with me:  
 [<img align="left" alt="antonnifo254 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/antonnifo254)
@@ -16,10 +16,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Django: Transfer data from SQLite to another database.](https://medium.com/@kenyattaanthony88/django-transfer-data-from-sqlite-to-another-database-edab51d79dfc?source=rss-b54eead2c4ab------2)
-- [Handling nginx startup error nginx.service:](https://medium.com/@kenyattaanthony88/handling-nginx-startup-error-nginx-service-6310042efa98?source=rss-b54eead2c4ab------2)
-- [Implementing K Nearest Neighbors with Python](https://medium.com/datadriveninvestor/implementing-k-nearest-neighbors-with-python-1c0b7cdf85f2?source=rss-b54eead2c4ab------2)
-- [Getting Started with K-Nearest Neighbors Algorithm](https://medium.com/datadriveninvestor/getting-started-with-k-nearest-neighbors-algorithm-77e4936a120?source=rss-b54eead2c4ab------2)
+- [Explaining the K-Nearest Neighbors Algorithm to a 5-year-old](https://medium.com/datadriveninvestor/getting-started-with-k-nearest-neighbors-algorithm-77e4936a120)
+- [Revolutionizing Healthcare Using TeleMedicine](https://kenyattaanthony.medium.com/revolutionizing-healthcare-9c564cce6aba)
+- [Using Django Extensions Package to Enhance Development](https://kenyattaanthony.medium.com/using-django-extensions-package-to-enhance-development-43b17d5ef517)
+- [A Simplified Guide to Hosting Multiple Django Apps on One Linux Server with Nginx and Gunicorn](https://blog.stackademic.com/a-simplified-guide-to-hosting-multiple-django-apps-on-one-linux-server-with-nginx-and-gunicorn-82ba6cc140d1)
 <!-- BLOG-POST-LIST:END -->  
 
 ---
